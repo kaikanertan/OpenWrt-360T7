@@ -26,7 +26,7 @@ env:
   DIY_P1_SH: diy1.sh
   DIY_P2_SH: diy2.sh
   UPLOAD_FIRMWARE: true
-  UPLOAD_RELEASE: true
+  UPLOAD_RELEASE: false
   PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
   TZ: Asia/Shanghai
 
